@@ -12,6 +12,7 @@ function App() {
           <a
             href="https://github.com/anetabarone/react-weather-app-barone"
             target="blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
